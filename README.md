@@ -16,10 +16,6 @@
 | **Frameworks** | `Ruby on Rails` (学習中) |
 | **Tools** | `Git`, `GitHub`, `VS Code` |
 
-## 📊 GitHub Stats
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIN661&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIN661&layout=compact&theme=transparent)
-
 ## 📫 Contact
 - **GitHub**: [YUJIN661](https://github.com/YUJIN661)
 ---
