@@ -23,7 +23,7 @@
 ## 📫 Contact
 - **GitHub**: [YUJIN661](https://github.com/YUJIN661)
 ---
-*Last updated: 2024/05/12*
+*Last updated: 2026/05/12*
 
 <!--
 **YUJIN661/YUJIN661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
