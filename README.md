@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Yujin! 👋
+
+慶應義塾大学 理工学部に在籍し、エンジニアリングを学んでいるユージンです。
+現在はバックエンド開発や競技プログラミングに興味を持ち、日々コードを書いています。
+
+## 🚀 About Me
+- 🏫 **University**: 慶應義塾大学 理工学部
+- 🖋 **Learning**: Ruby / JavaScript / C++
+- 🎮 **Interests**: Web開発 / アニメ / ゲーム
+- ⚡ **Fun Fact**: 豆電球を創ったトーマス・エジソンは性格がやばかったらしい
+
+## 🛠 Tech Stack
+| Category | Languages / Tools |
+| :--- | :--- |
+| **Languages** | `C++`, `Ruby`, `JavaScript`, `C` |
+| **Frameworks** | `Ruby on Rails` (学習中) |
+| **Tools** | `Git`, `GitHub`, `VS Code` |
+
+## 📊 GitHub Stats
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIN661&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIN661&layout=compact&theme=transparent)
+
+## 📫 Contact
+- **GitHub**: [YUJIN661](https://github.com/YUJIN661)
+---
+*Last updated: 2024/05/12*
 
 <!--
 **YUJIN661/YUJIN661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
